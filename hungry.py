@@ -7,4 +7,5 @@ def hungry() :
         print('eat meat and orage')
     else :
         print('keep coding, coding, coding')
+        print('keep working man!!')
 hungry()
