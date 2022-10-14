@@ -4,6 +4,7 @@ def hungry() :
     if question ==1 :
         print('eat bead and meat')
         print('eat banana')
+        print('eat meat and orage')
     else :
         print('keep coding, coding, coding')
 hungry()
